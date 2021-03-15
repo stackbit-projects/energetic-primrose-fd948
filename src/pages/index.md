@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Sirius ERP
+    title: ERP
     content: |
       A solução para seus negócios
     actions:
